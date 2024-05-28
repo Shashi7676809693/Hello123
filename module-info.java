@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sagatagi
+ *
+ */
+module HelloWorld {
+}
